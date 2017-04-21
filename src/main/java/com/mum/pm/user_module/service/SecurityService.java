@@ -1,4 +1,4 @@
-package com.mum.pm.usermodule.service;
+package com.mum.pm.user_module.service;
 
 public interface SecurityService {
     String findLoggedInUsername();

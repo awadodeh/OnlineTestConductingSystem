@@ -1,7 +1,7 @@
-package com.mum.pm.usermodule.validator;
+package com.mum.pm.user_module.validator;
 
-import com.mum.pm.usermodule.model.User;
-import com.mum.pm.usermodule.service.UserService;
+import com.mum.pm.user_module.model.User;
+import com.mum.pm.user_module.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

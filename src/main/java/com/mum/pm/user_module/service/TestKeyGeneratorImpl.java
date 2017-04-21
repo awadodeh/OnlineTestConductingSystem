@@ -1,4 +1,4 @@
-package com.mum.pm.usermodule.service;
+package com.mum.pm.user_module.service;
 
 /**
  * Created by Chuang on 2017/4/20.

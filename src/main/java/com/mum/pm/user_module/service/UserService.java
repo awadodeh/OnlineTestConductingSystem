@@ -1,6 +1,6 @@
-package com.mum.pm.usermodule.service;
+package com.mum.pm.user_module.service;
 
-import com.mum.pm.usermodule.model.User;
+import com.mum.pm.user_module.model.User;
 
 public interface UserService {
     void save(User user);

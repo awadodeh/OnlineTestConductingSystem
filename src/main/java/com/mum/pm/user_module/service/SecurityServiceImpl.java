@@ -1,4 +1,4 @@
-package com.mum.pm.usermodule.service;
+package com.mum.pm.user_module.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

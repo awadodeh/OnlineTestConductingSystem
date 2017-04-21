@@ -1,4 +1,4 @@
-package com.mum.pm.usermodule.model;
+package com.mum.pm.user_module.model;
 
 
 import javax.persistence.*;

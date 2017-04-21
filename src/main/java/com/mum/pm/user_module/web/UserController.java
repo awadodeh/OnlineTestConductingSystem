@@ -1,9 +1,9 @@
-package com.mum.pm.usermodule.web;
+package com.mum.pm.user_module.web;
 
-import com.mum.pm.usermodule.model.User;
-import com.mum.pm.usermodule.service.SecurityService;
-import com.mum.pm.usermodule.service.UserService;
-import com.mum.pm.usermodule.validator.UserValidator;
+import com.mum.pm.user_module.model.User;
+import com.mum.pm.user_module.service.SecurityService;
+import com.mum.pm.user_module.service.UserService;
+import com.mum.pm.user_module.validator.UserValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

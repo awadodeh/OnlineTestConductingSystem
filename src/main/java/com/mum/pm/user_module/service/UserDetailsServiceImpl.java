@@ -1,8 +1,8 @@
-package com.mum.pm.usermodule.service;
+package com.mum.pm.user_module.service;
 
-import com.mum.pm.usermodule.model.Role;
-import com.mum.pm.usermodule.model.User;
-import com.mum.pm.usermodule.repository.UserRepository;
+import com.mum.pm.user_module.model.Role;
+import com.mum.pm.user_module.model.User;
+import com.mum.pm.user_module.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
